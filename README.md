@@ -1,1 +1,1 @@
-# P2P-fintech
+# peer-to-peer
